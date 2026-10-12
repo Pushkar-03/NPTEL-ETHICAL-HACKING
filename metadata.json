@@ -1,0 +1,6 @@
+{
+  "name": "HackSprint: NPTEL Ethical Hacking 10-Day Sprint",
+  "description": "Intensive 10-day structured learning sprint for the NPTEL Ethical Hacking course (noc26_cs157) with interactive labs, topic prioritization, diagnostic path, quizzes, and revision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
